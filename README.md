@@ -1,3 +1,3 @@
 # Scrabble
-![alt-text](https://github.com/novitamme/Knights-and-Knights/blob/master/2xzd0v.gif?raw=true)
+![alt-text](https://github.com/novitamme/Scrabble/blob/master/2xzgf3.gif?raw=true)
 
